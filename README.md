@@ -8,6 +8,7 @@ BuzzChat is a cross-platform chatting application developed with Flutter and Dar
 
 - [Features](#features-of-full-version)
 - [Tech Stack](#tech-stack-of-full-version)
+- [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contact](#contact)
@@ -75,6 +76,31 @@ BuzzChat is a cross-platform chatting application developed with Flutter and Dar
 
 4. **(Full Version only)Chat Bot:**
    - Access the chat bot from the main menu for assistance and automated responses.
+
+## Screenshots
+### Authentication Screens
+![Login Screen](app_screenshots/login_screen.png)
+![Register Screen](app_screenshots/register_screen.png)
+### Home Screen
+![Home Screen](app_screenshots/home_screen.png)
+![Search Screen](app_screenshots/search_screen.png)
+
+### Chat Screens
+![One to one messaging Screen](app_screenshots/one_to_one_screen.png)
+![Group Chat Screen](app_screenshots/group_screen.png)
+![Chatbot Screen](app_screenshots/chatbot_screen.png)
+
+### Edit & Info Screens
+![Group Info Screen](app_screenshots/group_info_screen.png)
+![Edit Group Info Screen](app_screenshots/edit_group_info_screen.png)
+
+### Forgot Password Screens
+![Forgot Password Screen 1](app_screenshots/forgot_pwd_screen_1.png)
+![Forgot Password Screen 2](app_screenshots/forgot_pwd_screen_2.png)
+
+### Password Reset Mail & Portal
+![Password Reset Mail](app_screenshots/pwd_reset_mail.jpeg)
+![Password Reset Portal](app_screenshots/pwd_reset_portal.jpeg)
 
 ## Contact
 

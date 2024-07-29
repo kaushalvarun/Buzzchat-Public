@@ -79,29 +79,40 @@ BuzzChat is a cross-platform chatting application developed with Flutter and Dar
 
 ## Screenshots
 ### Authentication Screens
-<img src="app_screenshots/login_screen.png" alt="Login Screen" height="400"/>
-<img src="app_screenshots/register_screen.png" alt="Register Screen" height="400"/>
+<div style="display: flex; justify-content: space-between;">
+  <img src="app_screenshots/login_screen.png" alt="Login Screen" height="400"/>
+  <img src="app_screenshots/register_screen.png" alt="Register Screen" height="400"/>
+</div>
 
 ### Home Screen
-<img src="app_screenshots/home_screen.png" alt="Home Screen" height="400"/>
-<img src="app_screenshots/search_screen.png" alt="Search Screen" height="400"/>
-
+<div style="display: flex; justify-content: space-between;">
+  <img src="app_screenshots/home_screen.png" alt="Home Screen" height="400"/>
+  <img src="app_screenshots/search_screen.png" alt="Search Screen" height="400"/>
+</div>
 
 ### Chat Screens
-<img src="app_screenshots/one_to_one_screen.png" alt="One to one messaging Screen" height="400"/>
-<img src="app_screenshots/chatbot_screen.png" alt="Chatbot Screen" height="400"/>
+<div style="display: flex; justify-content: space-between;">
+   <img src="app_screenshots/one_to_one_screen.png" alt="One to one messaging Screen" height="400"/>
+   <img src="app_screenshots/chatbot_screen.png" alt="Chatbot Screen" height="400"/>
+</div>
 
 ### Edit & Info Screens
-<img src="app_screenshots/group_info_screen.png" alt="Group Info Screen" height="400"/>
-<img src="app_screenshots/edit_group_info_screen.png" alt="Edit Group Info Screen" height="400"/>
+<div style="display: flex; justify-content: space-between;">
+   <img src="app_screenshots/group_info_screen.png" alt="Group Info Screen" height="400"/>
+   <img src="app_screenshots/edit_group_info_screen.png" alt="Edit Group Info Screen" height="400"/>
+</div>
 
 ### Forgot Password Screens
-<img src="app_screenshots/forgot_pwd_screen_1.png" alt="Forgot Password Screen 1" height="400"/>
-<img src="app_screenshots/forgot_pwd_screen_2.png" alt="Forgot Password Screen 2" height="400"/>
+<div style="display: flex; justify-content: space-between;">
+   <img src="app_screenshots/forgot_pwd_screen_1.png" alt="Forgot Password Screen 1" height="400"/>
+   <img src="app_screenshots/forgot_pwd_screen_2.png" alt="Forgot Password Screen 2" height="400"/>
+</div>
 
 ### Password Reset Mail & Portal
-<img src="app_screenshots/pwd_reset_mail.jpeg" alt="Password Reset Mail" height="400"/>
-<img src="app_screenshots/pwd_reset_portal.jpeg" alt="Password Reset Portal" height="400"/>
+<div style="display: flex; justify-content: space-between;">  
+   <img src="app_screenshots/pwd_reset_mail.jpeg" alt="Password Reset Mail" height="400"/>
+   <img src="app_screenshots/pwd_reset_portal.jpeg" alt="Password Reset Portal" height="400"/>
+</div>
 
 ## Contact
 

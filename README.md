@@ -16,7 +16,8 @@ BuzzChat is a cross-platform chatting application developed with Flutter and Dar
 ## Features of Full Version
 
 - **Real-Time Messaging:** Send and receive messages in real-time with one-to-one and group chat functionality.
-- **Attachments:** Share images, videos, and other files within chats.
+- **Group Chats:** Send and receive messages in real-time with other users using group chat functionality.
+- **Attachments:** Share pdf files within chats.
 - **Profile Images:** Upload and display profile images using Firebase Storage.
 - **Search Functionality:** Quickly find messages and contacts with the integrated search feature.
 - **Dark Mode and Light Mode:** Toggle between dark and light themes to suit your preference.
@@ -61,17 +62,16 @@ BuzzChat is a cross-platform chatting application developed with Flutter and Dar
 
 ### Basic User Guide
 
-1. **(Present in public version)Sign Up / Login:** 
+1. **(Present in public version, full functionality in Full Version) Sign Up / Login:** 
    - Use your email and password to create an account or log in.
     
-2. **(Full Version only)Chat:**
+2. **(Full Version only) Chat:**
    - Start a one-to-one chat or create a group chat.
    - Send messages, attachments, and use emojis.
    - Search for messages or contacts using the search bar.
 
-3. **(Full Version only)Settings:**
+3. **Settings:**
    - Toggle between dark mode and light mode.
-   - Update your profile information.
 
 4. **(Full Version only)Chat Bot:**
    - Access the chat bot from the main menu for assistance and automated responses.

@@ -79,28 +79,29 @@ BuzzChat is a cross-platform chatting application developed with Flutter and Dar
 
 ## Screenshots
 ### Authentication Screens
-![Login Screen](app_screenshots/login_screen.png)
-![Register Screen](app_screenshots/register_screen.png)
+<img src="app_screenshots/login_screen.png" alt="Login Screen" height="400"/>
+<img src="app_screenshots/register_screen.png" alt="Register Screen" height="400"/>
+
 ### Home Screen
-![Home Screen](app_screenshots/home_screen.png)
-![Search Screen](app_screenshots/search_screen.png)
+<img src="app_screenshots/home_screen.png" alt="Home Screen" height="400"/>
+<img src="app_screenshots/search_screen.png" alt="Search Screen" height="400"/>
+
 
 ### Chat Screens
-![One to one messaging Screen](app_screenshots/one_to_one_screen.png)
-![Group Chat Screen](app_screenshots/group_screen.png)
-![Chatbot Screen](app_screenshots/chatbot_screen.png)
+<img src="app_screenshots/one_to_one_screen.png" alt="One to one messaging Screen" height="400"/>
+<img src="app_screenshots/chatbot_screen.png" alt="Chatbot Screen" height="400"/>
 
 ### Edit & Info Screens
-![Group Info Screen](app_screenshots/group_info_screen.png)
-![Edit Group Info Screen](app_screenshots/edit_group_info_screen.png)
+<img src="app_screenshots/group_info_screen.png" alt="Group Info Screen" height="400"/>
+<img src="app_screenshots/edit_group_info_screen.png" alt="Edit Group Info Screen" height="400"/>
 
 ### Forgot Password Screens
-![Forgot Password Screen 1](app_screenshots/forgot_pwd_screen_1.png)
-![Forgot Password Screen 2](app_screenshots/forgot_pwd_screen_2.png)
+<img src="app_screenshots/forgot_pwd_screen_1.png" alt="Forgot Password Screen 1" height="400"/>
+<img src="app_screenshots/forgot_pwd_screen_2.png" alt="Forgot Password Screen 2" height="400"/>
 
 ### Password Reset Mail & Portal
-![Password Reset Mail](app_screenshots/pwd_reset_mail.jpeg)
-![Password Reset Portal](app_screenshots/pwd_reset_portal.jpeg)
+<img src="app_screenshots/pwd_reset_mail.jpeg" alt="Password Reset Mail" height="400"/>
+<img src="app_screenshots/pwd_reset_portal.jpeg" alt="Password Reset Portal" height="400"/>
 
 ## Contact
 

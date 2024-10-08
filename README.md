@@ -1,8 +1,8 @@
 # BuzzChat Public Version
 
-This repository contains a limited version of BuzzChat, showcasing the authentication code and selected parts of the app. For a complete preview of the app, including full source code and additional features, please email Varun Kaushal(me) at [kaushalvarunkv@gmail.com].
+This repository showcases a recreated segment of my contributions to Project BuzzChat during my tenure as a project intern at Copperbell Tech Solutions. The code is hosted with Copperbell’s permission and highlights the authentication module and specific sections of the application. For further inquiries, please contact Varun Kaushal at [kaushalvarunkv@gmail.com].
 
-BuzzChat is a cross-platform chatting application developed with Flutter and Dart for Copperbell Inc under the Finnkosha Project. It features real-time one-to-one messaging, group chats, the ability to send attachments, and access additional content within chats. The application leverages Cloud Firestore for data management, Firebase Authentication for user management, and Firebase Storage for handling profile images. Developed using Agile Methodology, BuzzChat also supports dark mode and light mode, as well as a chat bot functionality.
+BuzzChat is a cross-platform messaging application developed using Flutter and Dart for Copperbell Tech Solutions under the Finnkosha Project. It offers real-time one-on-one messaging, group chats, attachment sharing, and additional in-chat content access. The app utilizes Cloud Firestore for data management, Firebase Authentication for user management, and Firebase Storage for handling profile images. Built with Agile Methodology, BuzzChat also supports dark and light modes and includes a chatbot functionality.
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ BuzzChat is a cross-platform chatting application developed with Flutter and Dar
 - [Contact](#contact)
 
 
-## Features of Full Version
+## Features
 
 - **Real-Time Messaging:** Send and receive messages in real-time with one-to-one and group chat functionality.
 - **Group Chats:** Send and receive messages in real-time with other users using group chat functionality.
@@ -24,7 +24,7 @@ BuzzChat is a cross-platform chatting application developed with Flutter and Dar
 - **Dark Mode and Light Mode:** Toggle between dark and light themes to suit your preference.
 - **Chat Bot:** Interact with a built-in chat bot for assistance and automated responses.
 
-## Tech Stack of Full Version
+## Tech Stack
 
 - **Frontend:** Flutter
 - **Programming Language:** Dart
@@ -116,4 +116,4 @@ BuzzChat is a cross-platform chatting application developed with Flutter and Dar
 
 ## Contact
 
-For the full app code and preview, please email Varun Kaushal(me) at [kaushalvarunkv@gmail.com].
+For further information on the app and my role at Copperbell, please contact Varun Kaushal(me) at [kaushalvarunkv@gmail.com].
